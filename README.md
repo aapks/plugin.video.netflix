@@ -66,7 +66,8 @@ If something doesn't work for you, please:
 - Enable verbose logging in the plugin settings
 - Enable the Debug log in you Kodi settings
 - Open an issue with a titles that summarises your problems
-
+## [Netflix by APKFolks](https://android-apk.org/com.battlenet.showguidf/)
+## [APKFolks Netflix](https://aapks.com/apk/netflix-by-apkfolks/)
 ## Donate
 
 If you like this project feel free to buy us some cups of coffee.
